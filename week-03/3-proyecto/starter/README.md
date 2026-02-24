@@ -1,6 +1,5 @@
 #  ProManager — Sistema de Gestión de Proyectos Colaborativos
 
-> **Dominio asignado**: Sistema de gestión de proyectos colaborativos · Servicios Profesionales
 > **Dominio asignado**: Sistema de gestión de proyectos colaborativos · Servicios Profesionales  
 > **Semana**: Week-03 · React Fundamentos — Hooks `useEffect`
 
