@@ -1,10 +1,10 @@
-# 🎯 Proyecto Week 03: Dashboard con Datos en Tiempo Real
+#  Proyecto Week 03: Dashboard con Datos en Tiempo Real
 
-## 📋 Descripción General
+##  Descripción General
 
 Construirás un **dashboard interactivo** que utiliza `useEffect` para gestionar múltiples fuentes de datos, actualizar información en tiempo real y manejar efectos secundarios complejos.
 
-## ⏱️ Duración Estimada
+##  Duración Estimada
 
 **2-2.5 horas** de trabajo enfocado
 
@@ -16,7 +16,7 @@ Construirás un **dashboard interactivo** que utiliza `useEffect` para gestionar
 
 Este proyecto debe adaptarse a tu dominio específico. Las instrucciones son genéricas, tú debes contextualizarlas.
 
-### 💡 Ejemplos de Adaptación por Dominio
+###  Ejemplos de Adaptación por Dominio
 
 | Dominio                   | Componente Lista           | Componente Stats  | Dato en Tiempo Real     |
 | ------------------------- | -------------------------- | ----------------- | ----------------------- |
