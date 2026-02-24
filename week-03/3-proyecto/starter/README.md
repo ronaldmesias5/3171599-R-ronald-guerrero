@@ -1,11 +1,12 @@
-# 🗂️ ProManager — Sistema de Gestión de Proyectos Colaborativos
+#  ProManager — Sistema de Gestión de Proyectos Colaborativos
 
+> **Dominio asignado**: Sistema de gestión de proyectos colaborativos · Servicios Profesionales
 > **Dominio asignado**: Sistema de gestión de proyectos colaborativos · Servicios Profesionales  
 > **Semana**: Week-03 · React Fundamentos — Hooks `useEffect`
 
 ---
 
-## 🎯 Descripción del Dominio
+##  Descripción del Dominio
 
 **ProManager** es el panel de control de una consultora de servicios profesionales.  
 La empresa gestiona proyectos de tipo: consultoría estratégica, desarrollo de software, diseño UX/UI, auditoría tecnológica y formación especializada.
@@ -18,7 +19,7 @@ El dashboard centraliza:
 
 ---
 
-## 🗂️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 starter/
@@ -38,7 +39,7 @@ starter/
 
 ---
 
-## 🚀 Cómo ejecutar
+##  Cómo ejecutar
 
 ```bash
 # Instalar dependencias
@@ -52,7 +53,7 @@ La aplicación estará disponible en `http://localhost:5173`.
 
 ---
 
-## 🧩 Componentes implementados
+##  Componentes implementados
 
 ### `Dashboard` (Dashboard.tsx)
 Componente raíz. Muestra:
@@ -106,7 +107,7 @@ useEffect(() => {
 
 ---
 
-## 🔑 Tipos del Dominio
+##  Tipos del Dominio
 
 ```typescript
 // Tipos enumerados del dominio
@@ -143,7 +144,7 @@ interface Project {
 
 ---
 
-## ✅ Criterios de evaluación cubiertos
+##  Criterios de evaluación cubiertos
 
 | Criterio | Implementado |
 |---|---|
